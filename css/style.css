@@ -9189,6 +9189,7 @@ textarea.form-control {
   padding-bottom: 0; }
 
 .ftco-footer {
+  margin-top: 50px; /* proper to good ui without some sections, by hamedsbt */
   font-size: 16px;
   padding: 6em 0 0 0;
   background: #1a1a1a;
