@@ -9962,3 +9962,8 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+
+img.intro-img {
+  max-width: 60px;
+  max-height: 60px;
+}
